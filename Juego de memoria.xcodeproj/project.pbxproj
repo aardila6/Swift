@@ -27,7 +27,7 @@
 		E9628A3A1C7154AB00231A85 /* Juego de memoria.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Juego de memoria.app"; path = "/Users/Desarrollo/Desktop/Programas/Juego de memoria/build/Debug-iphoneos/Juego de memoria.app"; sourceTree = "<absolute>"; };
 		E9628A4E1C7154AB00231A85 /* Juego de memoriaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de memoriaTests.xctest"; path = "/Users/Desarrollo/Desktop/Programas/Juego de memoria/build/Debug-iphoneos/Juego de memoriaTests.xctest"; sourceTree = "<absolute>"; };
 		E9628A591C7154AB00231A85 /* Juego de memoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "Juego de memoriaUITests.xctest"; path = "/Users/Desarrollo/Desktop/Programas/Juego de memoria/build/Debug-iphoneos/Juego de memoriaUITests.xctest"; sourceTree = "<absolute>"; };
-		E9628A6B1C7154D900231A85 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = juegoDeMemoria.playground; path = ../../juegoDeMemoria.playground; sourceTree = "<group>"; };
+		E9628A6B1C7154D900231A85 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = juegoDeMemoria.playground; path = ../juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,16 +58,8 @@
 		E9628A311C7154AB00231A85 = {
 			isa = PBXGroup;
 			children = (
-				E9628A3C1C7154AB00231A85 /* Juego de memoria */,
-			);
-			sourceTree = "<group>";
-		};
-		E9628A3C1C7154AB00231A85 /* Juego de memoria */ = {
-			isa = PBXGroup;
-			children = (
 				E9628A6B1C7154D900231A85 /* juegoDeMemoria.playground */,
 			);
-			path = "Juego de memoria";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
