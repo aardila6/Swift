@@ -47,6 +47,7 @@
 		E9628A591C7154AB00231A85 /* Juego de memoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego de memoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9628A5D1C7154AB00231A85 /* Juego_de_memoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_de_memoriaUITests.swift; sourceTree = "<group>"; };
 		E9628A5F1C7154AB00231A85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E9628A6B1C7154D900231A85 /* juegoDeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = juegoDeMemoria.playground; path = ../juegoDeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		E9628A311C7154AB00231A85 = {
 			isa = PBXGroup;
 			children = (
+				E9628A6B1C7154D900231A85 /* juegoDeMemoria.playground */,
 				E9628A3C1C7154AB00231A85 /* Juego de memoria */,
 				E9628A511C7154AB00231A85 /* Juego de memoriaTests */,
 				E9628A5C1C7154AB00231A85 /* Juego de memoriaUITests */,
