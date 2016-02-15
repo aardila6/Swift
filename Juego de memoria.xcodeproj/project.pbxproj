@@ -484,6 +484,7 @@
 				E9628A641C7154AB00231A85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9628A651C7154AB00231A85 /* Build configuration list for PBXNativeTarget "Juego de memoriaTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				E9628A671C7154AB00231A85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9628A681C7154AB00231A85 /* Build configuration list for PBXNativeTarget "Juego de memoriaUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				E9628A6A1C7154AB00231A85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
